@@ -15,5 +15,5 @@ Usage
     Follow the prompts to play the game.        
 
 Contributors:        
-    Me, Myself, and I        
+    I would like to thank Gabby Ramirez for helping me look over my program, she pointed out the different issues I had and where she would change some sections. She also gave me some good insight on how I should stucture some of my code. This helped me while writing and figuring what I need to do next.      
     Rukayat Fakoya        
